@@ -8,4 +8,4 @@ Este cenário é comum em várias atividades do dia a dia. Principalmente quando
 
 O objetivo deste artigo é fazer tudo isso utilizando DAX!
 
-Você pode dar uma olhada no passo a passo detalhado desta resolução através do meu [artigo no Médium](https://thalesferraz.medium.com/comparando-meses-no-power-bi-atrav%C3%A9s-de-gr%C3%A1ficos-8bb4c85d038)
+Você pode dar uma olhada no passo a passo detalhado desta resolução através do meu [artigo no Medium](https://thalesferraz.medium.com/como-calcular-horas-comerciais-no-power-bi-efca0773f2f3)
