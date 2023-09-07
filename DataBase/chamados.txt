@@ -1,0 +1,22 @@
+| Tipo de Chamado | Dia e Hora de Início             | Dia e Hora de Término           |
+|-----------------|---------------------------------|---------------------------------|
+| Suporte Técnico | Segunda, 15 de novembro, 16:00 PM | Terça, 16 de novembro, 10:00 AM |
+| Manutenção de Servidores | Terça, 23 de agosto, 17:30 PM | Quarta, 24 de agosto, 09:00 AM |
+| Atendimento a Incidente | Quarta, 12 de julho, 14:00 PM | Quinta, 13 de julho, 11:00 AM |
+| Consulta de Segurança de Rede | Quinta, 6 de maio, 06:45 AM | Sexta, 8 de maio, 11:30 AM |
+| Configuração de Firewall | Sexta, 3 de setembro, 18:00 PM | Sábado, 4 de setembro, 10:30 AM |
+| Atualização de Software | Sábado, 12 de fevereiro, 09:30 AM | Domingo, 13 de fevereiro, 12:00 PM |
+| Treinamento de Usuários | Domingo, 20 de março, 17:15 PM | Segunda, 21 de março, 09:15 AM |
+| Auditoria de Segurança de Dados | Segunda, 7 de novembro, 15:30 PM | Terça, 8 de novembro, 10:00 AM |
+| Backup de Dados | Terça, 2 de agosto, 16:45 PM | Terça, 2 de agosto, 18:00 PM |
+| Configuração de VPN | Quarta, 18 de janeiro, 14:15 PM | Quinta, 19 de janeiro, 11:15 AM |
+| Monitoramento de Rede | Quinta, 22 de setembro, 17:00 PM | Sexta, 23 de setembro, 09:30 AM |
+| Instalação de Antivírus | Sexta, 30 de junho, 15:30 PM | Sábado, 1 de julho, 10:00 AM |
+| Atualização de Hardware | Sábado, 11 de março, 16:30 PM | Domingo, 15 de março, 11:30 AM |
+| Avaliação de Vulnerabilidades | Domingo, 9 de outubro, 14:45 PM | Segunda, 10 de outubro, 09:45 AM |
+| Migração de Servidores | Segunda, 25 de abril, 17:30 PM | Terça, 26 de abril, 09:30 AM |
+| Configuração de Roteador | Terça, 5 de julho, 16:00 PM | Quarta, 6 de julho, 09:00 AM |
+| Recuperação de Dados | Quarta, 8 de dezembro, 15:00 PM | Quinta, 11 de dezembro, 11:00 AM |
+| Análise de Logs de Segurança | Quinta, 14 de fevereiro, 16:15 PM | Sexta, 15 de fevereiro, 11:15 AM |
+| Manutenção de Impressoras | Sexta, 27 de agosto, 17:45 PM | Sábado, 28 de agosto, 10:45 AM |
+| Configuração de Email | Sábado, 01 de abril, 16:30 PM | Segunda, 3 de abril, 11:30 AM |
